@@ -6,6 +6,7 @@ export default function Home() {
     <>
       <main>
         <p>Це перший параграф.</p>
+        <p>Це другий параграф.</p>
       </main>
     </>
   );
