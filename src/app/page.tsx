@@ -4,7 +4,9 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <>
-      dsadsa
+      <main>
+        <p>Це перший параграф.</p>
+      </main>
     </>
   );
 }
